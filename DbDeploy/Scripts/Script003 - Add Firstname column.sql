@@ -1,0 +1,2 @@
+﻿ALTER TABLE Customers
+ADD FirstName NVARCHAR(50) NULL
