@@ -12,7 +12,7 @@ Include the following NuGet packages: - 
  
 ## Console Application 
 Replace the default console app with: 
-```
+```csharp
  public class Program  
     {  
         static int Main()  
@@ -53,7 +53,8 @@ Replace the default console app with: 
             return 0;  
         }  
     }  
-``` 
+```
+
 
 ## Note 
 * Load the connection string from an app.config file, so we can inject a deployment SQL target from Octopus. 
