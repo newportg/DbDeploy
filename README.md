@@ -6,7 +6,7 @@ When run the application executes the scripts in sequence and logs the execution
  
 ## NuGet Packages 
 Include the following NuGet packages: - 
-(dbup-sqlserver 
+* dbup-sqlserver 
 * OctoPack 
 
  
